@@ -1,2 +1,2 @@
 # ST6
-AAU Bachelor-project
+AAU Bachelor project
